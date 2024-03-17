@@ -59,7 +59,7 @@ export const navigation = [
   },
   {
     id: "4",
-    title: "Новая учетная запись",
+    title: "Учетная запись",
     url: "#signup",
     onlyMobile: true,
   },
