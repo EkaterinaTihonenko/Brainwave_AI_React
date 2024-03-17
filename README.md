@@ -1,1 +1,16 @@
-# Brainwave_AI_React
+<div align="center">
+
+**Installation**
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Running the Project**
+
+```bash
+npm run dev
+```
+</div>
